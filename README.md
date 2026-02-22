@@ -40,4 +40,4 @@ This repository provides a structured automation framework for alpha research an
 To build a scalable, reproducible, and automated alpha research pipeline that reduces manual intervention and increases research efficiency on the WorldQuant Brain platform.
 
 ## P.S.
-主要是自用参考，本来hard code 了很多个人设置+账号密码，现在要post 到github 就删掉了，孢子们用之前可以先用codex检查一下 QAQ
+主要是自用参考，本来hard code 了很多个人设置+账号密码，现在要post 到github 就删掉了，孢子们用之前可以先检查一下 QAQ
